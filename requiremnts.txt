@@ -1,5 +1,8 @@
 streamlit
 transformers
 sentencepiece
+sacremoses
+fugashi
+ipadic
 torch
-gTTs
+gTTS
